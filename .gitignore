@@ -33,3 +33,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.bolt/prompt
+.bolt/ignore
+.bolt/config.json
+@.bolt/
+@.bolt/**/*.log
+@.bolt/**/*.tmp
